@@ -1,4 +1,4 @@
-# 👩‍💻 AUTH-ACN-Workshop 🚀
+# 👩‍💻 UoM-ACN-Workshop 🚀
 
 Welcome to the official GitHub organization for the **Cloud & DevOps Workshop** organized by  
 **Accenture Greece** in collaboration with **University of Macedonia (UoM)**!
